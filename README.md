@@ -1,4 +1,4 @@
-# Exploring Gun Deaths
+# Data Cleaning of German eBay Used Car Listings
 Jupyter Notebook in Python for exploring dataset of German eBay car listings as part of Dataquest's [guided project](https://www.dataquest.io/course/pandas-fundamentals).
 
 ## Release History
