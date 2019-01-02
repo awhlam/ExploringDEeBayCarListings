@@ -1,5 +1,5 @@
 # Exploring German eBay Used Car Listings
-Jupyter Notebook in Python for exploring a data set of German eBay car listings as part of [Dataquest's Pandas & Numpy Fundamentals guided project](https://www.dataquest.io/course/pandas-fundamentals).
+Jupyter Notebook in Python for exploring a data set of German eBay car listings as part of [Dataquest's Pandas & Numpy Fundamentals](https://www.dataquest.io/course/pandas-fundamentals) guided project.
 
 ## Release History
 * 12/16/18 - Version 1.0 - Initial release
