@@ -4,7 +4,7 @@ Jupyter Notebook in Python for exploring dataset of German eBay car listings as 
 ## Release History
 * 12/16/18 - Version 1.0 - Initial release
 
-## Data Sets Used
+## Data Set
 [Data](https://www.kaggle.com/orgesleka/used-cars-database/data) scraped and uploaded to Kaggle. A few modifications from the original dataset that was uploaded to Kaggle:
 
 * Sampled 50,000 data points from the full dataset.
